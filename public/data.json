@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "player_name": "CSEin PLayBoy",
+    "player_img": "https://i.ibb.co.com/fV3BTFj7/SAbbir.jpg",
+    "player_country": "India",
+    "player_type": "Batsman",
+    "rating": 98,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Medium",
+    "price": 1800000
+  },
+  {
+    "id": 2,
+    "player_name": "Geologian Playboy",
+    "player_img": "https://i.ibb.co.com/fzdwJkRk/Samir.jpg",
+    "player_country": "Pakistan",
+    "player_type": "Batsman",
+    "rating": 96,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Off Break",
+    "price": 1700000
+  },
+  {
+    "id": 3,
+    "player_name": "Innocent Boy",
+    "player_img": "https://i.ibb.co.com/6J7LhmD3/Murshedul.jpg",
+    "player_country": "England",
+    "player_type": "Wicket Keeper",
+    "rating": 95,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "None",
+    "price": 1650000
+  },
+  {
+    "id": 4,
+    "player_name": "NAGA LOVER",
+    "player_img": "https://i.ibb.co.com/5hMf18NW/Sakib.jpg",
+    "player_country": "Afghanistan",
+    "player_type": "Bowler",
+    "rating": 97,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Leg Break",
+    "price": 1750000
+  },
+  {
+    "id": 5,
+    "player_name": "TS Shaon",
+    "player_img": "https://i.ibb.co.com/0VmXG6jm/Shaon.jpg",
+    "player_country": "England",
+    "player_type": "All-Rounder",
+    "rating": 94,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Fast Medium",
+    "price": 1680000
+  },
+  {
+    "id": 6,
+    "player_name": "BEN STROKE",
+    "player_img": "https://i.ibb.co.com/h12rxGPZ/benstroke.webp",
+    "player_country": "Bangladesh",
+    "player_type": "All-Rounder",
+    "rating": 93,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Orthodox",
+    "price": 1550000
+  },
+  {
+    "id": 7,
+    "player_name": "Jasprit Bumrah",
+    "player_img": "https://i.ibb.co.com/h12rxGPZ/benstroke.webp",
+    "player_country": "India",
+    "player_type": "Bowler",
+    "rating": 97,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "price": 1780000
+  },
+  {
+    "id": 8,
+    "player_name": "Travis Head",
+    "player_img": "https://i.ibb.co.com/h12rxGPZ/benstroke.webp",
+    "player_country": "Australia",
+    "player_type": "Batsman",
+    "rating": 92,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Off Break",
+    "price": 1500000
+  },
+  {
+    "id": 9,
+    "player_name": "Mitchell Starc",
+    "player_img": "https://i.ibb.co.com/h12rxGPZ/benstroke.webp",
+    "player_country": "Australia",
+    "player_type": "Bowler",
+    "rating": 95,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Fast",
+    "price": 1720000
+  },
+  {
+    "id": 10,
+    "player_name": "Kane Williamson",
+    "player_img": "https://i.ibb.co.com/h12rxGPZ/benstroke.webp",
+    "player_country": "New Zealand",
+    "player_type": "Batsman",
+    "rating": 94,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Off Break",
+    "price": 1600000
+  }
+]

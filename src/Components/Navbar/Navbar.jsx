@@ -2,7 +2,7 @@ import React from 'react';
 import logoImg from '../../assets/logo.png'
 const Navbar = () => {
     return (
-        <div className=' '>
+        <div className=' container mx-auto'>
            <div className=" shadow-sm flex justify-between bg-gray-300 text-center items-center">
   <div className="">
     <a className="btn btn-ghost text-xl"><img className='w-1/2' src={logoImg} alt="" /></a>
@@ -18,7 +18,7 @@ const Navbar = () => {
      0 Coin
     </button>
   </div>
-</div> 
+</div>  
         </div>
     );
 };

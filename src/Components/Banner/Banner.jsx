@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <>
             <div
-            className=''
+            className='container'
             
   style={{ 
     
@@ -16,15 +16,20 @@ const Banner = () => {
     backgroundColor: "#0B0B0F",
     backgroundSize: "cover",
     backgroundPosition: "center",
-    height: "50vh",
+    height: "50%",
     borderRadius:"10px"
   }}>
   
    <div
-   className='flex flex-col justify-center items-center'>
-     <img className='w-[150px] mt-4' src={mainImg} alt="" /></div>
-     <p></p>
+   className=' flex flex-col justify-center items-center text-center'>
+     <img className='w-[150px] mt-4' src={mainImg} alt="" />
+     <p className='text-2xl text-white font-semibold'>Assemble Your Ultimate Dream 11 Cricket Team</p>
+     <p className='text-xl font-light text-white'>Beyond Boundaries Beyond Limits</p>
+<button className="bg-lime-300 text-black font-bold px-6 py-3 rounded-xl border-4 border-gray-800 hover:bg-lime-400">
+  Claim Free Credit
+</button>
 
+</div>
 </div>
         </>
     );
