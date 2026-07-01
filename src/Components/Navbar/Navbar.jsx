@@ -1,6 +1,6 @@
 import React from 'react';
 import logoImg from '../../assets/logo.png'
-const Navbar = () => {
+const Navbar = ({coin}) => {
     return (
         <div className=' container mx-auto'>
            <div className=" shadow-sm flex justify-between bg-gray-300 text-center items-center">
@@ -14,8 +14,8 @@ const Navbar = () => {
     <p className='font-bold text-{14px} text-black-200'>Schedule</p>
   </div>
   <div className="">
-    <button className=" btn-ghost text-2xl font-bold">
-     0 Coin
+    <button className=" btn-ghost text-2xl font-bold">$
+     {coin} Coin
     </button>
   </div>
 </div>  
