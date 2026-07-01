@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <>
             <div
-            className='container'
+            className='container mx-auto'
             
   style={{ 
     
